@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Mvvms.Core/Mvvms.Core.csproj" />
+  <Project Path="Mvvms.MAUI/Mvvms.MAUI.csproj" />
+  <Project Path="Mvvms.WPF/Mvvms.WPF.csproj" />
+</Solution>

@@ -4,7 +4,7 @@ MVVMの基礎クラスとして`INotifyPropertyChanged`から派生させた、`
 
 `ViewModelBase`はマルチスレッドも対応しています。通知を送る際にサブスレッドであればメインスレッドで通知を呼び出すようになっています。
 
-## ModelBase
+## BindableBase
 
 ```CS
 public class SampleModel : BindableBase {

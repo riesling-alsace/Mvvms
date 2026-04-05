@@ -1,9 +1,9 @@
-[submodule "MvvmBase.MAUI"]
-	path = MvvmBase.MAUI
-	url = https://github.com/riesling-alsace/MvvmBase.MAUI.git
-[submodule "MvvmBase.WPF"]
-	path = MvvmBase.WPF
-	url = https://github.com/riesling-alsace/MvvmBase.WPF.git
-[submodule "MvvmBase.Core"]
-	path = MvvmBase.Core
-	url = https://github.com/riesling-alsace/MvvmBase.Core.git
+[submodule "Mvvms.MAUI"]
+	path = Mvvms.MAUI
+	url = https://github.com/riesling-alsace/Mvvms.MAUI.git
+[submodule "Mvvms.WPF"]
+	path = Mvvms.WPF
+	url = https://github.com/riesling-alsace/Mvvms.WPF.git
+[submodule "Mvvms.Core"]
+	path = Mvvms.Core
+	url = https://github.com/riesling-alsace/Mvvms.Core.git
