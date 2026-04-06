@@ -7,3 +7,6 @@
 [submodule "Mvvms.Core"]
 	path = Mvvms.Core
 	url = https://github.com/riesling-alsace/Mvvms.Core.git
+[submodule "Mvvms.Avalonia"]
+	path = Mvvms.Avalonia
+	url = https://github.com/riesling-alsace/Mvvms.Avalonia.git

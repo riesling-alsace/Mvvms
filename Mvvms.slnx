@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Mvvms.Avalonia/Mvvms.Avalonia.csproj" />
   <Project Path="Mvvms.Core/Mvvms.Core.csproj" />
   <Project Path="Mvvms.MAUI/Mvvms.MAUI.csproj" />
   <Project Path="Mvvms.WPF/Mvvms.WPF.csproj" />
