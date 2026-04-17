@@ -45,6 +45,7 @@ dotnet_search_reference_assemblies = true
 dotnet_style_namespace_match_folder = true:suggestion
 resharper_namespace_at_body_level = true
 csharp_style_namespace_declarations = file_scoped:suggestion
+resharper_check_namespace_highlighting = error
 
 #### .NET コーディング規則 ####
 
@@ -195,7 +196,7 @@ csharp_indent_braces = false
 csharp_indent_case_contents = true
 csharp_indent_case_contents_when_block = true
 csharp_indent_labels = one_less_than_current
-csharp_indent_switch_labels = true
+csharp_indent_switch_labels = false
 
 # スペース設定
 csharp_space_after_cast = false
@@ -224,6 +225,14 @@ csharp_space_between_square_brackets = false
 # 折り返しの設定
 csharp_preserve_single_line_blocks = false
 csharp_preserve_single_line_statements = false
+
+# Attributeの設定
+csharp_place_attribute_on_same_line = false
+csharp_max_attribute_length_for_same_line = 80
+csharp_place_field_attribute_on_same_line = false
+csharp_place_method_attribute_on_same_line = false
+csharp_place_type_attribute_on_same_line = false
+csharp_place_single_method_argument_lambda_on_same_line = true
 
 #### 命名スタイル ####
 
